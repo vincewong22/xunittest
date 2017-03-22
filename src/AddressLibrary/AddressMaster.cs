@@ -36,11 +36,75 @@ namespace AddressLibrary
                  _BuildingNumber = 0;
             else
                 _BuildingNumber = value;}}
-    private 
-    public string Street { get; set; }
-    public string City { get; set; }
-    public string Country { get; set; }
-    public string CanadaPostalCode { get; set; }
+    
+    //street
+     private string _Street;
+    
+    public string Street{
+        get{return _Street;}
+        set{
+           if(value == null)
+           _Street = "";
+           else
+                if(!Regex.IsMatch(value, "^[a-zA-Z]+$"))
+                     _Street = "";
+                else
+                    _Street = value;
+            
+    }
+    }
+    //City
+     private string _City;
+    
+    public string City{
+        get{return _City;}
+        set{
+           if(value == null)
+           _City = "";
+           else
+                if(!Regex.IsMatch(value, "^[a-zA-Z]+$"))
+                     _City = "";
+                else
+                    _City = value;
+            
+    }
+    }
+
+    //Country
+      private string _Country;
+    
+    public string Country{
+        get{return _Country;}
+        set{
+           if(value == null)
+           _Country = "";
+           else
+                if(!Regex.IsMatch(value, "^[a-zA-Z]+$"))
+                     _Country = "";
+                else
+                    _Country = value;
+            
+    }
+    }
+   
+      //CanadaPostalCode
+      private string _CanadaPostalCode;
+    
+    public string CanadaPostalCode{
+        get{return _CanadaPostalCode;}
+        set{
+           if(value == null)
+           _CanadaPostalCode = "";
+           else
+                 if(!Regex.IsMatch(value, "[A-Za-z][0-9][A-Za-z][0-9][A-Za-z][0-9]"))
+                     _CanadaPostalCode = "";
+                else
+                    _CanadaPostalCode = value;
+            
+    }
+    }
+    
+    
 
 
    
