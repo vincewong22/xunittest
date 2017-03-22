@@ -1,0 +1,6 @@
+C:\play\address\src\AddressLibrary\bin\Debug\netstandard1.4\AddressLibrary.deps.json
+C:\play\address\src\AddressLibrary\bin\Debug\netstandard1.4\AddressLibrary.dll
+C:\play\address\src\AddressLibrary\bin\Debug\netstandard1.4\AddressLibrary.pdb
+C:\play\address\src\AddressLibrary\obj\Debug\netstandard1.4\AddressLibrary.AssemblyInfo.cs
+C:\play\address\src\AddressLibrary\obj\Debug\netstandard1.4\AddressLibrary.dll
+C:\play\address\src\AddressLibrary\obj\Debug\netstandard1.4\AddressLibrary.pdb

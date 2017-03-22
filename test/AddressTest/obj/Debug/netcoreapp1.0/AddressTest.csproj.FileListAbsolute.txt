@@ -1,0 +1,13 @@
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\AddressTest.deps.json
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\AddressTest.runtimeconfig.json
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\AddressTest.runtimeconfig.dev.json
+C:\play\address\test\AddressTest\obj\Debug\netcoreapp1.0\AddressTest.AssemblyInfo.cs
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\xunit.runner.utility.dotnet.dll
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\xunit.runner.reporters.dotnet.dll
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\AddressTest.dll
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\AddressTest.pdb
+C:\play\address\test\AddressTest\obj\Debug\netcoreapp1.0\AddressTest.dll
+C:\play\address\test\AddressTest\obj\Debug\netcoreapp1.0\AddressTest.pdb
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\AddressLibrary.dll
+C:\play\address\test\AddressTest\bin\Debug\netcoreapp1.0\AddressLibrary.pdb
